@@ -11,5 +11,5 @@ jobs:
           ls -l .
           pwd
           tmux start-server
-          /home/sabrehagen/.config/scripts/startup.sh
-          /home/sabrehagen/.yarn/bin/lt --port 8080
+          /home/loftwah/.config/scripts/startup.sh
+          /home/loftwah/.yarn/bin/lt --port 8080
